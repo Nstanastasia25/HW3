@@ -1,0 +1,15 @@
+D:\Настя\программ\HW3\EXAMPLES\EX2\bin\Debug\net6.0\EX2.exe
+D:\Настя\программ\HW3\EXAMPLES\EX2\bin\Debug\net6.0\EX2.deps.json
+D:\Настя\программ\HW3\EXAMPLES\EX2\bin\Debug\net6.0\EX2.runtimeconfig.json
+D:\Настя\программ\HW3\EXAMPLES\EX2\bin\Debug\net6.0\EX2.dll
+D:\Настя\программ\HW3\EXAMPLES\EX2\bin\Debug\net6.0\EX2.pdb
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\EX2.csproj.AssemblyReference.cache
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\EX2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\EX2.AssemblyInfoInputs.cache
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\EX2.AssemblyInfo.cs
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\EX2.csproj.CoreCompileInputs.cache
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\EX2.dll
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\refint\EX2.dll
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\EX2.pdb
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\EX2.genruntimeconfig.cache
+D:\Настя\программ\HW3\EXAMPLES\EX2\obj\Debug\net6.0\ref\EX2.dll
