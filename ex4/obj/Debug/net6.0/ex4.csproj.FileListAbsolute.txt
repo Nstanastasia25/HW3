@@ -1,0 +1,15 @@
+D:\Настя\программ\HW3\EXAMPLES\ex4\bin\Debug\net6.0\ex4.exe
+D:\Настя\программ\HW3\EXAMPLES\ex4\bin\Debug\net6.0\ex4.deps.json
+D:\Настя\программ\HW3\EXAMPLES\ex4\bin\Debug\net6.0\ex4.runtimeconfig.json
+D:\Настя\программ\HW3\EXAMPLES\ex4\bin\Debug\net6.0\ex4.dll
+D:\Настя\программ\HW3\EXAMPLES\ex4\bin\Debug\net6.0\ex4.pdb
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\ex4.csproj.AssemblyReference.cache
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\ex4.AssemblyInfoInputs.cache
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\ex4.AssemblyInfo.cs
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\ex4.csproj.CoreCompileInputs.cache
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\ex4.dll
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\refint\ex4.dll
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\ex4.pdb
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\ex4.genruntimeconfig.cache
+D:\Настя\программ\HW3\EXAMPLES\ex4\obj\Debug\net6.0\ref\ex4.dll

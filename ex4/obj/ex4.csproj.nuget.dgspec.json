@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Настя\\программ\\HW3\\EXAMPLES\\lesson2\\lesson2.csproj": {}
+    "D:\\Настя\\программ\\HW3\\EXAMPLES\\ex4\\ex4.csproj": {}
   },
   "projects": {
-    "D:\\Настя\\программ\\HW3\\EXAMPLES\\lesson2\\lesson2.csproj": {
+    "D:\\Настя\\программ\\HW3\\EXAMPLES\\ex4\\ex4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Настя\\программ\\HW3\\EXAMPLES\\lesson2\\lesson2.csproj",
-        "projectName": "lesson2",
-        "projectPath": "D:\\Настя\\программ\\HW3\\EXAMPLES\\lesson2\\lesson2.csproj",
+        "projectUniqueName": "D:\\Настя\\программ\\HW3\\EXAMPLES\\ex4\\ex4.csproj",
+        "projectName": "ex4",
+        "projectPath": "D:\\Настя\\программ\\HW3\\EXAMPLES\\ex4\\ex4.csproj",
         "packagesPath": "C:\\Users\\nstan\\.nuget\\packages\\",
-        "outputPath": "D:\\Настя\\программ\\HW3\\EXAMPLES\\lesson2\\obj\\",
+        "outputPath": "D:\\Настя\\программ\\HW3\\EXAMPLES\\ex4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
